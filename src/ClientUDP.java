@@ -3,7 +3,6 @@ import java.io.*;
 import java.util.Scanner;
 
 public class ClientUDP {
-
     private DatagramSocket dSocket;
     private InetAddress serverAddress;
     private int port;

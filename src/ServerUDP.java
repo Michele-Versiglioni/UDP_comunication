@@ -10,7 +10,6 @@ public class ServerUDP {
     public ServerUDP(int port) {
         this.port = port;
     }
-
     public void start() {
 
         try {

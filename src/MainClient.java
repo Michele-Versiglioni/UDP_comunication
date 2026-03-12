@@ -1,7 +1,6 @@
 public class MainClient {
 
     public static void main(String[] args) {
-
         try {
 
             ClientUDP client = new ClientUDP("localhost", 5000);
